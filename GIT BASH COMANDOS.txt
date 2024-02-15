@@ -1,0 +1,12 @@
+GIT BASH COMANDOS
+
+PRIMER COMNANDO PARA CUALQUIER REPOSITORIO
+//inicializa repositorio local
+git init
+
+CONFIGURAR CUENTA
+//va a identificar tu cuenta
+//nombre de usuario
+git config --global user.name "PedroUgalde"
+//email del usuario
+git config --global user.email "Pugalded1900@alumno.ipn.mx"
