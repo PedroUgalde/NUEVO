@@ -10,3 +10,30 @@ CONFIGURAR CUENTA
 git config --global user.name "PedroUgalde"
 //email del usuario
 git config --global user.email "Pugalded1900@alumno.ipn.mx"
+
+AGREGAR COSAS
+//agregar cosas al repositorio cada cambio
+git add .
+//te dice status jeje
+git status
+
+// sin punto es para cambios especificos con puntos es todos los cambios realizados
+git add CSS
+git add JS
+
+//insertar comentario para saber que se hace con el codigo
+git commit -m "comentario"
+
+git remote add origin https://github.com/PedroUgalde/NUEVO.git
+git push origin main
+
+NOTAS
+master branche es la rama maestra
+
+ir a settings
+github pages
+y cambiarlo al master
+
+visual studio
+ctrl shift ñ //terminal
+ctrl shift p //cambiar color

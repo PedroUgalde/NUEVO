@@ -1,0 +1,9 @@
+HTML
+
+<nav> Barra de navegacion
+<h1> titulos
+<p> etiqueta
+<section> seccion se pueden agregar dos etiquetas mas
+	<article> se puede crear seccion de un articulo
+	<aside> barra laterla izquierda o derecha dependiendo del uso
+<footer> pie de la pagina 
